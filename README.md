@@ -1,9 +1,11 @@
-TMDB Movie Data Analysis
+# TMDB Movie Data Analysis
+
 I carried out an analysis on the TMDB movie dataset. The data set contains information,
 about 10,000 movies obtained from The Movie Database(TMDB). The dataset consists of
 columns providing information on Popularity, User ratings, movie budgets, revenue, cast
 members, and genres. With a glance through information from the dataset I was able to pose
 the following questions;
+
 ● What is the most popular movie of all time?
 ● What movie has the highest budget and revenue?
 ● Do user ratings have any effect on movie popularity?
@@ -14,7 +16,8 @@ the following questions;
 ● Does Movie length affect the popularity of a movie?
 ● What is the year with the highest number of movie releases?
 
-Findings
+## Findings
+
 The most popular movie of all time is Jurassic park, which is the fifth movie
 with the highest revenue. Although it was not part of the top 10 movies with
 the highest budget.
